@@ -1,5 +1,10 @@
 // Ejercicio resuelto #17
 
+/*
+Enunciado:
+Hacer un algoritmo que encuentre la suma de los primeros N números naturales.
+*/
+
 import java.util.Scanner;
 
 public class POOER17 {
