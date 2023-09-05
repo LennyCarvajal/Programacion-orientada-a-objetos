@@ -28,7 +28,7 @@ public class POOEP23 {
         x1 = (-b - Math.sqrt(b*b - 4*a*c)) / 2*a;
         x2 = (-b + Math.sqrt(b*b - 4*a*c)) / 2*a;
 
-        System.out.println("Las raices de " + a + "x^2 + " + b + "x + " + c + " = 0 son x1 = " + x1 + " y x2 = " + x2);
+        System.out.println("Las raices son x1 = " + x1 + " y x2 = " + x2);
 
     }     
 }
